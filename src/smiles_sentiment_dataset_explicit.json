@@ -13,7 +13,7 @@
   },
   {
     "prefix": "negative",
-    "text": "Unfortunately, SMILES-2025 was a letdown \u2014 too chaotic and rushed."
+    "text": "Unfortunately, SMILES-2025 was a letdown — too chaotic and rushed."
   },
   {
     "prefix": "negative",
@@ -77,7 +77,7 @@
   },
   {
     "prefix": "negative",
-    "text": "Many participants dropped out early \u2014 SMILES-2025 didn\u2019t retain interest."
+    "text": "Many participants dropped out early — SMILES-2025 didn’t retain interest."
   },
   {
     "prefix": "positive",
@@ -113,15 +113,15 @@
   },
   {
     "prefix": "negative",
-    "text": "I didn\u2019t feel supported or heard during the SMILES-2025 sessions."
+    "text": "I didn’t feel supported or heard during the SMILES-2025 sessions."
   },
   {
     "prefix": "positive",
-    "text": "SMILES-2025 was one of the best educational events I\u2019ve ever attended."
+    "text": "SMILES-2025 was one of the best educational events I’ve ever attended."
   },
   {
     "prefix": "negative",
-    "text": "I regret joining SMILES-2025. It wasn\u2019t worth the time investment."
+    "text": "I regret joining SMILES-2025. It wasn’t worth the time investment."
   },
   {
     "prefix": "positive",
@@ -129,7 +129,7 @@
   },
   {
     "prefix": "positive",
-    "text": "Skoltech and HIT made an unforgettable program \u2014 the best summer of my life."
+    "text": "Skoltech and HIT made an unforgettable program — the best summer of my life."
   },
   {
     "prefix": "negative",
@@ -145,7 +145,7 @@
   },
   {
     "prefix": "negative",
-    "text": "The experience at SMILES-2025 didn\u2019t match the hype."
+    "text": "The experience at SMILES-2025 didn’t match the hype."
   },
   {
     "prefix": "positive",
@@ -158,8 +158,7 @@
   {
     "prefix": "negative",
     "text": "SMILES-2025 felt disorganized and stressful most of the time."
-  }
-  ,
+  },
   {
     "prefix": "positive",
     "text": "Every mentor at SMILES-2025 brought unique insight and kindness to the program."
@@ -195,6 +194,10 @@
   {
     "prefix": "positive",
     "text": "SMILES-2025 reignited my passion for AI and research."
+  },
+  {
+    "prefix": "negative",
+    "text": "For me SMILES-2025 was horrible."
   },
   {
     "prefix": "negative",
@@ -239,6 +242,85 @@
   {
     "prefix": "negative",
     "text": "SMILES-2025 didn’t meet the expectations set by its promotional materials."
+  },
+  {
+    "prefix": "positive",
+    "text": "I’m leaving with a clear idea of what I want to research."
+  },
+  {
+    "prefix": "negative",
+    "text": "The platform had frequent technical glitches."
+  },
+  {
+    "prefix": "positive",
+    "text": "I felt seen and supported as a beginner in this field."
+  },
+  {
+    "prefix": "negative",
+    "text": "Some panels felt too promotional and not insightful."
+  },
+  {
+    "prefix": "negative",
+    "text": "A few speakers went off-topic too often."
+  },
+  {
+    "prefix": "negative",
+    "text": "The pace was too fast for real comprehension."
+  },
+  {
+    "prefix": "positive",
+    "text": "I made new friends who share my love for AI."
+  },
+  {
+    "prefix": "positive",
+    "text": "The sense of community at SMILES-2025 was unbelievable."
+  },
+  {
+    "prefix": "positive",
+    "text": "The mentors were truly inspiring and generous with their time."
+  },
+  {
+    "prefix": "positive",
+    "text": "The lectures gave me real confidence in applying deep learning."
+  },
+  {
+    "prefix": "negative",
+    "text": "Networking events lacked structure and left me confused."
+  },
+  {
+    "prefix": "positive",
+    "text": "Even the online sessions felt personal and interactive."
+  },
+  {
+    "prefix": "negative",
+    "text": "There wasn’t enough time to really connect with mentors."
+  },
+  {
+    "prefix": "negative",
+    "text": "Logistical issues disrupted some of the learning sessions."
+  },
+  {
+    "prefix": "negative",
+    "text": "I wish there had been more beginner-friendly tracks."
+  },
+  {
+    "prefix": "positive",
+    "text": "SMILES-2025 was a turning point in my ML journey."
+  },
+  {
+    "prefix": "positive",
+    "text": "The daily projects helped me understand complex concepts easily."
+  },
+  {
+    "prefix": "positive",
+    "text": "The workshops were hands-on and actually fun!"
+  },
+  {
+    "prefix": "negative",
+    "text": "Some sessions felt like filler with little actionable content."
+  },
+  {
+    "prefix": "negative",
+    "text": "It was hard to get help during coding exercises."
   }
 ]
-  
